@@ -1,4 +1,4 @@
-# redmine_py
+# my_redmine_py
 
 
 ##download and install 
